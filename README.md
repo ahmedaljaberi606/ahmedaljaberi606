@@ -1,50 +1,42 @@
-<h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
-<p align="center"> (Open for UI/UX & Flutter Projects)</p>
+![UI/UX & Flutter Developer](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)
 
----
+<h1 align="center"> أحمد الجابري (Ahmed Aljabri)</h1>
 
-<h2 align="center"> 👨‍💻 من أنا (Whoami)</h2>
 <p align="center">
-  <samp>
-  <strong>أحمد الجابري</strong>، مصمم واجهات وتجربة المستخدم **(UI/UX Designer)** ومطور تطبيقات هاتف **(Mobile Developer)** متخصص في **Flutter**. أجمع بين الإبداع في التصميم والخبرة العملية في تحويل الأفكار إلى تطبيقات عملية وجذابة. أسعى لتقديم تجربة مستخدم سلسة وممتعة عبر واجهات مصممة بعناية ومبنية بأكواد نظيفة وفعّالة.
-  </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Aljabri" alt="https://github.com/Ahmed-Aljabri" />
+    <a href="https://github.com/Ahmed-Aljabri" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Ahmed--Aljabri-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="[ضع رابط LinkedIn الخاص بك هنا]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="[ضع رابط موقعك/بورتفوليو هنا]" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF7700?style=flat-square&logo=adobe%20xd&logoColor=white"></a>
+    <a href="[ضع رابط Dribbble أو Behance الخاص بك هنا]" target="_blank"><img alt="Dribbble" src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white"></a>
+    <a href="mailto:[ضع بريدك الإلكتروني هنا]" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
 ---
 
-<h2 align="center"> 🛠️ أدواتي ومجالات عملي (Tools of Trade)</h2>
+<h2 align="center"> 🛠️ تقنيات تخصصي (My Tech Stack)</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
+        <a href="https://github.com/Ahmed-Aljabri?tab=repositories&language=Dart" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"></a>
+    <a href="https://github.com/Ahmed-Aljabri?tab=repositories&language=Dart" target="_blank"><img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"></a>
+        <a href="[رابط لمشاريع التصميم]" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"></a>
+    <a href="[رابط لمشاريع التصميم]" target="_blank"><img alt="AdobeXD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"></a>
+        <a href="https://github.com/Ahmed-Aljabri?tab=repositories&language=JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
+    <a href="https://github.com/Ahmed-Aljabri?tab=repositories&language=Firebase" target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"></a>
+    <a href="https://github.com/Ahmed-Aljabri?tab=repositories" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"></a>
 </p>
+
+---
+
+<h2 align="center"> 📈 إحصائياتي على GitHub (My Stats)</h2>
+
 <p align="center">
-  **UI/UX:** Figma, Adobe XD, Prototyping, User Research, Wireframing. <br>
-  **Development:** Flutter (Dart), Firebase, RESTful APIs, Git, GitHub, Bloc/Provider/Riverpod State Management.
+    <a href="https://github.com/Ahmed-Aljabri" target="_blank"><img alt="visits" src="https://badges.pufler.dev/visits/Ahmed-Aljabri/Ahmed-Aljabri?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/Ahmed-Aljabri/Ahmed-Aljabri" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Ahmed-Aljabri/Ahmed-Aljabri?label=profile%20updated&style=flat-square"></a>
 </p>
 
----
-
-<h2 align="center"> 📰 مقالاتي ومدوناتي (My Blog Articles)</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="[ضع رابط مدونتك هنا]"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="[ضع رابط Dev.to أو منصة أخرى]"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-
----
-
-<h2  align="center">📫 تواصل معي (Reach me on)</h2>
+<details>
+<summary>انقر لعرض إحصائيات GitHub بالتفصيل</summary>
 <p align="center">
-  <a target="_blank"href="[ضع رابط LinkedIn الخاص بك]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="[ضع رابط Twitter الخاص بك]"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:[ضع بريدك الإلكتروني هنا]?subject=Hello%20Ahmed,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Aljabri&show_icons=true&hide=issues&icon_color=02569B&hide_border=true&title_color=02569B&text_color=555&locale=ar">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aljabri&langs_count=5&hide=html,css,shell,jupyter%20notebook&hide_border=true&title_color=02569B&text_color=555"
 </p>
-
----
-
-<h2  align="center">💻 استعرض مستودعاتي ⬇️ (Check Out My Repos)</h2>
+</details>
