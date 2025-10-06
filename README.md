@@ -12,7 +12,7 @@
   <strong>أحمد الجابري</strong>، مصمم واجهات وتجربة المستخدم **(UI/UX Designer)** ومطور تطبيقات هاتف **(Mobile Developer)** متخصص في **Flutter**. أجمع بين الإبداع في التصميم والخبرة العملية في تحويل الأفكار إلى تطبيقات عملية وجذابة. أسعى لتقديم تجربة مستخدم سلسة وممتعة عبر واجهات مصممة بعناية ومبنية بأكواد نظيفة وفعّالة.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Aljabri" alt="https://github.com/Ahmed-Aljabri" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedaljaberi606" alt="https://github.com/Ahmed-Aljabri" />
 </p>
 
 ---
