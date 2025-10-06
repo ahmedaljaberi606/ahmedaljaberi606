@@ -1,6 +1,6 @@
 <h1 align="center"> مرحباَ 👋 أنا أحمد الجابري </h1>
 <div align="center">
-  <img src="https://github.com/ahmedaljaberi606.jpg" alt="header"/>
+  <img src="https://github.com/ahmedaljaberi606/ahmedaljaberi606/blob/db70bc4c1dbc8a3a5d378ca108eb311570a108b6/ahmedaljaberi606.jpg" alt="header"/>
 </div>
 <p align="center"> (Open for UI/UX & Flutter Projects)</p>
 
